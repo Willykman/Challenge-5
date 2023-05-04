@@ -22,4 +22,4 @@ Analyze the Retirement Portfolio Forecasts
 Forecast Cumulative Returns in 10 Years
 
 # Contributors
-Starter code provided by Columbia FinTech Bootcamp. Parts of this application were copied for weeks assignments and review and debugging provided by AskBCS help desk.
+Starter code provided by Columbia FinTech Bootcamp. Parts of this application were copied from this weeks assignments and review and debugging provided by AskBCS help desk.
